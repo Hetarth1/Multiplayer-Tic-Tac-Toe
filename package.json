@@ -1,0 +1,25 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hetarth1/Multiplayer-Tic-Tac-Toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hetarth1/Multiplayer-Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/Hetarth1/Multiplayer-Tic-Tac-Toe#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "firebase": "^11.10.0",
+    "socket.io": "^4.8.1"
+  }
+}
